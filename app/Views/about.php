@@ -8,7 +8,7 @@
 </head>
 <body class="bg-light">
 
-    <!-- Navbar -->
+
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
             <a class="navbar-brand fw-bold" href="/">ITE311</a>
@@ -22,11 +22,11 @@
         </div>
     </nav>
 
-    <!-- Content -->
+
     <div class="container text-center my-5">
         <h1 class="fw-bold text-primary">About Us</h1>
-        <p class="text-muted">This project was made as part of our ITE311 laboratory activity Brief info about your LMS project and team..</p>
+        <p class="text-muted">This project was made as part of our ITE311 laboratory activity.</p>
     </div>
 
-</body>
-</html>
+    </body>
+    </html>

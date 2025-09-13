@@ -8,7 +8,7 @@
 </head>
 <body class="bg-light">
 
-    <!-- Navbar -->
+
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
             <a class="navbar-brand fw-bold" href="/">ITE311</a>
@@ -22,12 +22,12 @@
         </div>
     </nav>
 
-    <!-- Content -->
+
     <div class="container text-center my-5">
         <h1 class="fw-bold text-primary">Contact Us</h1>
         <p class="text-muted">You can reach us at:</p>
         <p class="fw-bold">example@email.com</p>
-        <p class="fw-bold">+63 9XX XXX XXXX</p>
+        <p class="fw-bold">+63 9XX XXX XXXXX</p>
     </div>
 
 </body>
